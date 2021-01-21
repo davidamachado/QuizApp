@@ -14,7 +14,7 @@ This is a web application which was created to provide a template for an online 
 
 * Each answer is submitted individually and only one attempt is allowed
 
-* Calculates the final score as a percentage
+* Calculates the final score as a percentage once all answers are submitted
 
 ### Setup
 * Install Node.js onto the system.
